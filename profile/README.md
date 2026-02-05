@@ -10,11 +10,12 @@ We are a Paris-based cloud consulting firm specializing in AWS infrastructure, s
 
 | Project | Description |
 |---|---|
-| [cognito-api](https://github.com/TocConsulting/cognito-api) | Secure user authentication system using AWS Cognito + Terraform |
+| [awsmap](https://github.com/TocConsulting/awsmap) | Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions |
+| [cryptex](https://github.com/TocConsulting/cryptex) | Enterprise CLI password generator with AWS Secrets Manager, HashiCorp Vault & OS Keychain integrations |
 | [s3-security-scanner](https://github.com/TocConsulting/s3-security-scanner) | AWS S3 security scanner with CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
 | [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless AWS IAM activity monitoring with real-time alerts |
-| [cryptex](https://github.com/TocConsulting/cryptex) | Enterprise CLI password generator with AWS Secrets Manager, HashiCorp Vault & OS Keychain integrations |
 | [aws-helper-scripts](https://github.com/TocConsulting/aws-helper-scripts) | AWS Security & Cost Optimization Toolkit |
+| [cognito-api](https://github.com/TocConsulting/cognito-api) | Secure user authentication system using AWS Cognito + Terraform |
 
 ---
 
