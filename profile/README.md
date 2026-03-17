@@ -8,14 +8,29 @@ We are a Paris-based cloud consulting firm specializing in AWS infrastructure, s
 
 ## Open Source Projects
 
+### Security
+
 | Project | Description |
 |---|---|
-| [awsmap](https://github.com/TocConsulting/awsmap) | Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions |
-| [cryptex](https://github.com/TocConsulting/cryptex) | Enterprise CLI password generator with AWS Secrets Manager, HashiCorp Vault & OS Keychain integrations |
+| [aws-security-cards](https://github.com/TocConsulting/aws-security-cards) | AWS service security reference cards — attack vectors, misconfigurations, enumeration commands, privilege escalation, persistence techniques, and defense recommendations (MD/HTML/PDF) |
 | [s3-security-scanner](https://github.com/TocConsulting/s3-security-scanner) | AWS S3 security scanner with CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
-| [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless AWS IAM activity monitoring with real-time alerts |
+| [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless AWS IAM activity monitoring and auditing across all regions with real-time alerts |
+
+### Infrastructure & DevOps
+
+| Project | Description |
+|---|---|
+| [awsmap](https://github.com/TocConsulting/awsmap) | Fast, comprehensive tool for mapping and inventorying AWS resources across all services and regions |
 | [aws-helper-scripts](https://github.com/TocConsulting/aws-helper-scripts) | AWS Security & Cost Optimization Toolkit |
-| [cognito-api](https://github.com/TocConsulting/cognito-api) | Secure user authentication system using AWS Cognito + Terraform |
+| [cryptex](https://github.com/TocConsulting/cryptex) | Enterprise CLI password generator with AWS Secrets Manager, HashiCorp Vault & OS Keychain integrations |
+
+### Applications
+
+| Project | Description |
+|---|---|
+| [cognito-api](https://github.com/TocConsulting/cognito-api) | Secure user authentication API using AWS Cognito + Terraform |
+| [cognito-api-react-example-app](https://github.com/TocConsulting/cognito-api-react-example-app) | React example app showing the integration with CognitoApi |
+| [small-file-sharing](https://github.com/TocConsulting/small-file-sharing) | Lightweight file sharing API |
 
 ---
 
