@@ -14,6 +14,7 @@ We are a Paris-based cloud consulting firm specializing in AWS infrastructure, s
 |---|---|
 | [aws-security-cards](https://github.com/TocConsulting/aws-security-cards) | AWS service security reference cards — attack vectors, misconfigurations, enumeration commands, privilege escalation, persistence techniques, and defense recommendations (MD/HTML/PDF) |
 | [s3-security-scanner](https://github.com/TocConsulting/s3-security-scanner) | AWS S3 security scanner with CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
+| [ec2-security-scanner](https://github.com/TocConsulting/ec2-security-scanner) | AWS EC2 security scanner with 46 checks across 8 categories and FSBP, CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
 | [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless AWS IAM activity monitoring and auditing across all regions with real-time alerts |
 
 ### Infrastructure & DevOps
