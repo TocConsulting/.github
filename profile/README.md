@@ -27,6 +27,7 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 
 | Project | Description |
 |---|---|
+| [localemu](https://github.com/localemu/localemu) | Free, open-source AWS cloud emulator. Run 132 AWS services locally, drop-in for the AWS CLI / boto3 / Terraform / CDK. Apache 2.0, no account, no token |
 | [awsmap](https://github.com/TocConsulting/awsmap) | Fast, comprehensive tool for mapping and inventorying AWS resources across all services and regions |
 | [aws-helper-scripts](https://github.com/TocConsulting/aws-helper-scripts) | AWS Security & Cost Optimization Toolkit |
 | [cryptex](https://github.com/TocConsulting/cryptex) | Enterprise CLI password generator with AWS Secrets Manager, HashiCorp Vault & OS Keychain integrations |
