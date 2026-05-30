@@ -6,6 +6,12 @@ We are a Paris-based cloud consulting firm specializing in AWS infrastructure, s
 
 ---
 
+## Featured: LocalEmu
+
+We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-source AWS cloud emulator. It is a community fork of the LocalStack community edition (archived in March 2026), continued under Apache 2.0 with no account and no auth token required. Run AWS services locally and point your existing AWS CLI, boto3, Terraform, or CDK at `localhost:4566`.
+
+---
+
 ## Open Source Projects
 
 ### Security
