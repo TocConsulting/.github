@@ -18,10 +18,12 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 
 | Project | Description |
 |---|---|
-| [aws-security-cards](https://github.com/TocConsulting/aws-security-cards) | AWS service security reference cards — attack vectors, misconfigurations, enumeration commands, privilege escalation, persistence techniques, and defense recommendations (MD/HTML/PDF) |
+| [aws-security-cards](https://github.com/TocConsulting/aws-security-cards) | AWS service security reference cards: attack vectors, misconfigurations, enumeration commands, privilege escalation, persistence techniques, and defense recommendations (MD/HTML/PDF) |
 | [s3-security-scanner](https://github.com/TocConsulting/s3-security-scanner) | AWS S3 security scanner with CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
 | [ec2-security-scanner](https://github.com/TocConsulting/ec2-security-scanner) | AWS EC2 security scanner with 46 checks across 8 categories and FSBP, CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
+| [lambda-security-scanner](https://github.com/TocConsulting/lambda-security-scanner) | AWS Lambda security scanner with 19 checks across 5 categories, secret detection in env vars, and compliance mapping for 10 frameworks (CIS, PCI-DSS, HIPAA, SOC 2, ISO, NIST, GDPR) |
 | [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless AWS IAM activity monitoring and auditing across all regions with real-time alerts |
+| [litellm-supply-chain-attack-analysis](https://github.com/TocConsulting/litellm-supply-chain-attack-analysis) | Full analysis of the March 2026 LiteLLM supply chain attack: compromised packages, decoded 3-stage malware, an EC2 detonation lab with mitmproxy captures, and complete IOCs |
 
 ### Infrastructure & DevOps
 
@@ -44,10 +46,10 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 
 ## What We Do
 
-- **Cloud Architecture** — Design and implement secure, scalable AWS infrastructures
-- **Security Audits** — Comprehensive cloud security assessments and compliance mapping
-- **Infrastructure as Code** — Terraform and CloudFormation automation
-- **DevOps & CI/CD** — Pipeline design, containerization, and deployment automation
+- **Cloud Architecture**: Design and implement secure, scalable AWS infrastructures
+- **Security Audits**: Comprehensive cloud security assessments and compliance mapping
+- **Infrastructure as Code**: Terraform and CloudFormation automation
+- **DevOps & CI/CD**: Pipeline design, containerization, and deployment automation
 
 ---
 
