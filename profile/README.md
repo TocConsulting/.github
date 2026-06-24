@@ -21,6 +21,9 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 | [aws-security-cards](https://github.com/TocConsulting/aws-security-cards) | AWS service security reference cards: attack vectors, misconfigurations, enumeration commands, privilege escalation, persistence techniques, and defense recommendations (MD/HTML/PDF) |
 | [s3-security-scanner](https://github.com/TocConsulting/s3-security-scanner) | AWS S3 security scanner with CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
 | [ec2-security-scanner](https://github.com/TocConsulting/ec2-security-scanner) | AWS EC2 security scanner with 46 checks across 8 categories and FSBP, CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR compliance mapping |
+| [iam-security-scanner](https://github.com/TocConsulting/iam-security-scanner) | AWS IAM security scanner: privilege escalation, confused-deputy trust, MFA, key rotation and least-privilege checks with compliance mapping for 10 frameworks |
+| [rds-security-scanner](https://github.com/TocConsulting/rds-security-scanner) | AWS RDS / Aurora security scanner: encryption, TLS enforcement, public access, IAM auth, backups and Multi-AZ checks with compliance mapping for 10 frameworks |
+| [ecs-eks-security-scanner](https://github.com/TocConsulting/ecs-eks-security-scanner) | AWS ECS / EKS container security scanner: privileged containers, secrets in task definitions, public endpoints, control-plane logging and IAM checks with compliance mapping for 11 frameworks |
 | [lambda-security-scanner](https://github.com/TocConsulting/lambda-security-scanner) | AWS Lambda security scanner with 19 checks across 5 categories, secret detection in env vars, and compliance mapping for 10 frameworks (CIS, PCI-DSS, HIPAA, SOC 2, ISO, NIST, GDPR) |
 | [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless AWS IAM activity monitoring and auditing across all regions with real-time alerts |
 | [litellm-supply-chain-attack-analysis](https://github.com/TocConsulting/litellm-supply-chain-attack-analysis) | Full analysis of the March 2026 LiteLLM supply chain attack: compromised packages, decoded 3-stage malware, an EC2 detonation lab with mitmproxy captures, and complete IOCs |
@@ -33,14 +36,14 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 | [awsmap](https://github.com/TocConsulting/awsmap) | Fast, comprehensive tool for mapping and inventorying AWS resources across all services and regions |
 | [aws-helper-scripts](https://github.com/TocConsulting/aws-helper-scripts) | AWS Security & Cost Optimization Toolkit |
 | [cryptex](https://github.com/TocConsulting/cryptex) | Enterprise CLI password generator with AWS Secrets Manager, HashiCorp Vault & OS Keychain integrations |
+| [chaos-on-aws](https://github.com/TocConsulting/chaos-on-aws) | Hands-on chaos engineering on AWS: 10 deployable Terraform labs using AWS FIS (EC2, Aurora, ECS/Fargate, Lambda, multi-Region DR) |
 
 ### Applications
 
 | Project | Description |
 |---|---|
 | [cognito-api](https://github.com/TocConsulting/cognito-api) | Secure user authentication API using AWS Cognito + Terraform |
-| [cognito-api-react-example-app](https://github.com/TocConsulting/cognito-api-react-example-app) | React example app showing the integration with CognitoApi |
-| [small-file-sharing](https://github.com/TocConsulting/small-file-sharing) | Lightweight file sharing API |
+| [enclave](https://github.com/TocConsulting/enclave) | Serverless secure file sharing on AWS: direct-to-S3 uploads, expiring presigned share links, optional per-user KMS encryption. One-command Terraform, Python + React |
 
 ---
 
