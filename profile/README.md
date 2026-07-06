@@ -1,20 +1,42 @@
-# Toc Consulting
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TocConsulting/.github/main/profile/assets/tocconsulting-logo.png" alt="TOC Consulting - Cloud. Secure. Scale." width="520" />
+</p>
 
-**Cloud. Secure. Scale.**
+<p align="center">
+Paris-based AWS consulting firm specializing in cloud security, architecture, and DevOps.<br/>
+We build free, open-source tools that help teams secure and optimize their AWS environments.
+</p>
 
-We are a Paris-based cloud consulting firm specializing in AWS infrastructure, security, and DevOps. We build open-source tools that help organizations secure and optimize their cloud environments.
+<p align="center">
+  <a href="https://tocconsulting.fr"><img src="https://img.shields.io/badge/Website-921CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="#security"><img src="https://img.shields.io/badge/Security_Scanners-181717?style=for-the-badge&logo=github&logoColor=white" alt="Security scanners" /></a>
+  <a href="https://github.com/localemu/localemu"><img src="https://img.shields.io/badge/LocalEmu-0894ab?style=for-the-badge&logoColor=white" alt="LocalEmu" /></a>
+</p>
+
+<p align="center">
+  <b><a href="https://tocconsulting.fr">tocconsulting.fr</a></b> |
+  <b><a href="https://github.com/TocConsulting/aws-security-cards">AWS Security Cards</a></b> |
+  <b><a href="https://github.com/localemu/localemu">LocalEmu Emulator</a></b> |
+  <b><a href="https://fr.linkedin.com/in/tarekouldcheikh">LinkedIn</a></b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TocConsulting/.github/main/profile/assets/tocconsulting-in-action.png" alt="TocConsulting in action: 8 open-source security scanners audit your AWS environment (EC2, S3, IAM, Lambda, RDS, ECS/EKS) with findings mapped to CIS, PCI-DSS, HIPAA, SOC 2, ISO and GDPR" width="100%" />
+</p>
+
+**8 security scanners · 300+ checks · 10+ compliance frameworks · 100% open source.**
+We scan what we secure for clients every day: EC2, S3, IAM, Lambda, RDS,
+ECS/EKS. Every finding is mapped to the frameworks auditors actually ask about.
 
 ---
 
 ## Featured: LocalEmu
 
-We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-source AWS cloud emulator. It is a community fork of the LocalStack community edition (archived in March 2026), continued under Apache 2.0 with no account and no auth token required. Run AWS services locally and point your existing AWS CLI, boto3, Terraform, or CDK at `localhost:4566`.
+We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-source AWS cloud emulator. It is a community fork of the LocalStack community edition (archived in March 2026), continued under Apache 2.0 with no account and no auth token required. Run 132 AWS services locally and point your existing AWS CLI, boto3, Terraform, or CDK at `localhost:4566`.
 
 ---
 
-## Open Source Projects
-
-### Security
+## Security
 
 | Project | Description |
 |---|---|
@@ -28,7 +50,7 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 | [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless AWS IAM activity monitoring and auditing across all regions with real-time alerts |
 | [litellm-supply-chain-attack-analysis](https://github.com/TocConsulting/litellm-supply-chain-attack-analysis) | Full analysis of the March 2026 LiteLLM supply chain attack: compromised packages, decoded 3-stage malware, an EC2 detonation lab with mitmproxy captures, and complete IOCs |
 
-### Infrastructure & DevOps
+## Infrastructure & DevOps
 
 | Project | Description |
 |---|---|
@@ -38,7 +60,7 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 | [cryptex](https://github.com/TocConsulting/cryptex) | Enterprise CLI password generator with AWS Secrets Manager, HashiCorp Vault & OS Keychain integrations |
 | [chaos-on-aws](https://github.com/TocConsulting/chaos-on-aws) | Hands-on chaos engineering on AWS: 10 deployable Terraform labs using AWS FIS (EC2, Aurora, ECS/Fargate, Lambda, multi-Region DR) |
 
-### Applications
+## Applications
 
 | Project | Description |
 |---|---|
@@ -47,17 +69,19 @@ We maintain [**LocalEmu**](https://github.com/localemu/localemu), a free, open-s
 
 ---
 
-## What We Do
+## What we do
 
-- **Cloud Architecture**: Design and implement secure, scalable AWS infrastructures
-- **Security Audits**: Comprehensive cloud security assessments and compliance mapping
+- **Security audits**: comprehensive AWS security assessments, IAM audits, and compliance mapping (CIS, PCI-DSS, HIPAA, SOC 2, ISO, GDPR)
+- **Cloud architecture**: secure-by-design, scalable AWS infrastructures and multi-account strategies
 - **Infrastructure as Code**: Terraform and CloudFormation automation
-- **DevOps & CI/CD**: Pipeline design, containerization, and deployment automation
+- **DevOps & CI/CD**: pipeline design, containerization, and deployment automation
 
 ---
 
-## Connect
+<p align="center">
+  <a href="https://tocconsulting.fr"><img src="https://img.shields.io/badge/Website-921CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:tarek@tocconsulting.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://fr.linkedin.com/in/tarekouldcheikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tocconsulting.fr)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarek@tocconsulting.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/tarekouldcheikh)
+<p align="center">Paris, France · <a href="https://tocconsulting.fr">tocconsulting.fr</a></p>
