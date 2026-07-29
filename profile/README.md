@@ -57,6 +57,7 @@ Each scanner is a Python CLI available on PyPI and Docker Hub, with multi-thread
 | [iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) | Serverless auditing of IAM, STS, and Console sign-in activity across all regions: real-time SNS security alerts, S3 + Athena analytics, and event retention beyond CloudTrail's 90-day window |
 | [aws-security-cards](https://github.com/TocConsulting/aws-security-cards) | Security reference cards for major AWS services: attack vectors, misconfigurations, enumeration commands, privilege escalation, persistence techniques, and defense recommendations, in Markdown, HTML and PDF |
 | [litellm-supply-chain-attack-analysis](https://github.com/TocConsulting/litellm-supply-chain-attack-analysis) | Malware analysis of the March 2026 LiteLLM supply chain attack: the real compromised packages detonated in an isolated EC2 lab, the decoded multi-stage payload, captured C2 traffic, and complete IOCs |
+| [aws-security-agent-from-zero-to-hero](https://github.com/TocConsulting/aws-security-agent-from-zero-to-hero) | Hands-on research and a 16-article series on AWS Security Agent, AWS's AI pentesting service: a purpose-built vulnerable app lab, real CloudWatch/CloudTrail logs, detection-rate measurement, and attempts to trick and attack the agent itself |
 
 ## Cloud & Developer Tools
 
