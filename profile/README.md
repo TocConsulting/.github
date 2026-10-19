@@ -65,6 +65,7 @@ Each scanner is a Python CLI available on PyPI and Docker Hub, with multi-thread
 |---|---|
 | [localemu](https://github.com/localemu/localemu) | Free, open-source AWS cloud emulator. Run AWS services locally and point your existing AWS CLI, boto3, Terraform, or CDK at `localhost:4566`. Apache 2.0, no account, no token |
 | [awsmap](https://github.com/TocConsulting/awsmap) | Fast AWS resource mapping and inventory across all services and regions: SQLite-backed scan history, SQL and natural-language queries, drift detection, waste detection, and tag compliance |
+| [cloudstorm](https://github.com/TocConsulting/cloudstorm) | Distributed load testing across AWS regions: launches EC2 instances through SSM, runs Locust, k6, JMeter or Artillery from all of them, merges the results into one JSON, CSV or HTML report, pass/fail thresholds for CI, and cleans up after itself. Available on PyPI and Docker Hub |
 | [cryptex](https://github.com/TocConsulting/cryptex) | CLI password generator with AWS Secrets Manager, HashiCorp Vault, and OS keychain integrations, compliance templates (NIST, PCI DSS, OWASP), and TOTP support |
 | [aws-helper-scripts](https://github.com/TocConsulting/aws-helper-scripts) | Collection of standalone AWS security, cost-optimization, and inventory scripts, each with a deployable Lambda version |
 
